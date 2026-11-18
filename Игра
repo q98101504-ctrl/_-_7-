@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Играть в CubeWar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Играть в CubeWar</h2>
+    <button onclick="startGame()">Начать игру</button>
+    <script>
+        function startGame() {
+            // Здесь можно добавить логику для запуска игры
+            alert('Игра начнется!');
+        }
+    </script>
+</body>
+</html>
